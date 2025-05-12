@@ -1,4 +1,4 @@
-# ADT-NGVNet Website
+# MASS2025 Website
 
 This is the official website for the Advanced Digital Twin and Pervasive Intelligence Integration for Next-Gen Vehicular Networks workshop.
 
@@ -22,7 +22,7 @@ This is the official website for the Advanced Digital Twin and Pervasive Intelli
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/adt-ngvnet.git
+git clone https://github.com/your-username/MASS2025-Workshop.git
 ```
 
 2. Open `index.html` in your web browser to view the website locally.
